@@ -1,2 +1,2 @@
 # weather-forecast
-here I will try to write a python weather forecast program, I will add different cities and choose the best API
+здесь я попробую написать программу прогноза погоды на python, добавлю разные города и выберу лучший API
